@@ -2,8 +2,7 @@
  * The Main class demonstrates the Merge Sort algorithm on an array of integers.
  * Merge sort is a divide-and-conquer algorithm that recursively divides an array into two halves,
  * sorts each half, and then merges them back together.
- * It has a run-time complexity of O(n log n) and a space complexity of O(n).
- * Algorithm Steps:
+  * Algorithm Steps:
  *      Recursively divide the array into two halves.
  *      Sort each half using the merge sort algorithm.
  *      Merge the sorted halves back together.
