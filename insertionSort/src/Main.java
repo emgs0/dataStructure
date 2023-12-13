@@ -20,7 +20,9 @@ public class Main {
     }
     /**
      * Sorts an array of integers using the Insertion Sort algorithm.
-     *
+     * Extract the right element of a couple in array, and insert to temp variable,
+     * it will go back to te left until found temp number greater than the number in array,
+     * and then place temp next to it.
      * @param array The array of integers to be sorted.
      */
     private static void insertionSort(int[] array) {
